@@ -1,9 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import {
- 
-  ArrowRight,
-} from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { Link } from 'react-router-dom';
 import { useTranslation } from 'react-i18next';
 
@@ -12,7 +9,6 @@ const TrainingSection = () => {
 
   const trainings = [
     {
-      // icon hissəsi silindi
       title: t('trainings.items.0.title'),
       description: t('trainings.items.0.description'),
       delay: 0.1,
@@ -56,9 +52,9 @@ const TrainingSection = () => {
             transition={{ duration: 0.6, delay: item.delay }}
             viewport={{ once: true }}
             className="flex flex-col md:flex-row items-center justify-between gap-10 bg-white backdrop-blur-md border border-white/20 rounded-3xl p-8 shadow-2xl hover:shadow-blue-900 transition-all duration-300 relative"
-            style={{ minHeight: '150px' }} // minimum hündürlük, ehtiyac varsa tənzimlə
+            style={{ minHeight: '150px' }}
           >
-            <div className="md:w-2/3 text-center md:text-left text-white">
+            <div className="md:w-2/3 w-full text-center md:text-left text-white">
               <h3 className="text-5xl font-semibold mb-3 text-[#0b3294]">
                 {item.title}
               </h3>
@@ -75,11 +71,11 @@ const TrainingSection = () => {
               </Link>
             </div>
 
-            <div className="md:w-1/3 flex items-center justify-end gap-4 relative h-full">
+            <div className="md:w-1/3 w-full flex items-center justify-center md:justify-end gap-4 relative h-full">
               <img
                 src={item.image}
                 alt={item.title}
-                className="w-20 md:w-full h-80 object-cover rounded-lg shadow-lg"
+                className="w-full md:w-full h-60 md:h-80 object-cover rounded-lg shadow-lg"
                 style={{ flexShrink: 0 }}
               />
             </div>
