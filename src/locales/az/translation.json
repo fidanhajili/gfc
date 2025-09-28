@@ -1,0 +1,290 @@
+{
+  "nav": {
+    "home": "Ana Səhifə",
+    "about": "Haqqımızda",
+    "services": "Xidmətlər",
+    "trainings": "Təlimlər",
+    "contact": "Əlaqə",
+        "useful": "Faydalı"
+  },
+  "home": {
+    "title": "Peşəkar Audit və Maliyyə",
+    "subtitle": "Xidmətləriniz üçün Etibarlı Partnyor"
+  },
+  "footer": {
+    "contact_title": "Bizimlə əlaqə",
+    "rights": "Bütün hüquqlar qorunur.",
+    "email_label": "Email:",
+    "phone_label": "Telefon:"
+  },
+  "services": {
+    "muhasibat": {
+      "title": "Mühasibatlıq xidmətləri",
+      "content": [
+        "Mühasibat uçotunun aparılması",
+        "Vergi və maliyyə hesabatlarının təqdim edilməsi",
+        "Bank ödənişləri, gömrük əməliyyatları və s. işlərin görülməsi",
+        "Gündəlik mühasibatlığın tələbinə uyğun sənədlərin tərtib edilməsi",
+        "Anbar (mal-material) uçotunun aparılması"
+      ],
+      "title1": "Mühasibatlıq xidmətləri",
+      "description1": [
+        "şirkətinizin, bütün maliyyə əməliyyatlarının qeydiyyatının aparılması, bütün təssərüfat əməliyatlarının uçotunun aparılması",
+        "ilkin sənədlərin hazırlanması, işlənməsi",
+        "vergi və maliyyə hesabatlarının təqdim edilməsi",
+        "əsas vəsaitlərin uçotunun aparılması, amortizasiya, silinmə, invetarizasiyanın təşkil edilməsi",
+        "bank əməliyyatlarının icrası, daxili, xarici köçürmələr, vergi və digər büdcə ödənişlərinin edilməsi",
+        "gömrük ödənişlərinin aparılması, müqavilələrin qeydiyyatı, gömrük bəyannamələrinin monitorinqi və s.",
+        "əməkhaqqı bonus sistemlərinin qurulması, əməkhaqqı hesablanma və ödənişlərinin aparılması",
+        "anbar uçotunun aparılması, mal-materialların maya dəyərinin formalaşması, mədaxili, silinməsi və s. işlərin icrası",
+        "kassa əməliyyatlarının uçotu, nağd pul vəsaitlərinin hərəkətinin izlənməsi, nəzarətdə saxlanması"
+      ]
+    },
+    "vergi": {
+      "title": "Vergi xidmətləri",
+      "content": [
+        "Vergi sənədləşməsi",
+        "Vergi orqanları ilə danışıqlar",
+        "Əməliyyatların icrası",
+        "Səyyar yoxlamalarda təmsilçilik"
+      ],
+      "title1": "Vergi xidmətləri",
+      "description1": [
+        "şirkətinizin, bütün vergi əməliyyatlarının qeydiyyatının aparılması",
+        "vergi orqanlarının tələb etdiyi sənədləşmələrin icrası",
+        "vergi hesabatlarının təqdim edilməsi, bütün növ bəyannamələrin təqdim edilməsi",
+        "əvvəli dövrlərin vergi hesabatlarının təhlili, mümkün geri qaytarmaların analizi və tətbiqi",
+        "vergi risklərinin analizi, mövcud vergi risklərinin aradan qaldırılması, vergi məsləhətlərinin verilməsi",
+        "kameral və səyyar vergi yoxlamaları zamanı şirkətinizi vergi orqanlarında təmsil etmək, müdafiə etmək"
+      ]
+    },
+    "audit": {
+      "title": "Audit xidmətləri",
+      "content": [
+        "AR Auditorlar Palatasının üzvü olaraq audit",
+        "İllik maliyyə hesabatlarının auditi",
+        "Daxili audit və vergi risklərinin yoxlanması",
+        "İnsan Resurslarının auditi"
+      ],
+      "title1": "Audit xidmətləri",
+      "description1": [
+        "Azərbaycan Respublikası Auditorlar Palatasının rəsmi üzvü olaraq auditin edilməsi",
+        "Vergi yoxlamaları öncəsi şirkətin daxili auditi, vergi risklərinin aşkarlanması, həll edilməsi",
+        "Bütün növ vergi bəyannamələrinin təhlili və dəqiqləşmələrin, düzəlişlərin edilib təkrar təqdim edilməsi",
+        "İnsan Resurslarının audit edilməsi, tərtib olunmalı olan sənədlərin tərtib edilməsi, çatışmazlıqların aradan qaldırılması"
+      ]
+    },
+    "hr": {
+      "title": "HR xidmətləri",
+      "content": [
+        "İnsan Resurslarına dair uçotun qurulması",
+        "Sənədləşmələrin aparılması",
+        "ƏMAS yoxlaması və düzəlişlər"
+      ],
+      "title1": "HR xidmətləri",
+      "description1": [
+        "İnsan Resurslarına dair uçotun qurulması",
+        "İnsan Resurslarına dair sənədləşmələrin aparılması, tabel, işə qəbul, dəyişiklik, xitam, məzuniyyət və s.",
+        "Əmas-ın yoxlanması, sənədlər, fakt və portal arasın fərqlərin aşkarlanması və düzəldilməsi",
+        "İnsan Resurslarının audit edilməsi, tərtib olunmalı olan sənədlərin tərtib edilməsi, çatışmazlıqların aradan qaldırılması"
+      ]
+    },
+    "ucot": {
+      "title": "Uçot proqramının tətbiqi",
+      "content": [
+        "Uçotun qurulması",
+        "Proqram yazılması və tətbiqi",
+        "1C proqramı üzrə təlim və dəstək"
+      ],
+      "title1": "Uçot proqramının tətbiqi",
+      "description1": [
+        "Şirkətinizdə mövcud olan proqramda mühasibat və vergi uçotunun qurulması",
+        "1C proqramının yazılması, mühasibat və vergi uçotunun sıfırdan qurulması və tətbiqi",
+        "1C proqramının təlimlərinin keçirilməsi, mövcud proqramınıza dəstək xidmətinin göstərilməsi"
+      ]
+    },
+    "huquq": {
+      "title": "Hüquq xidmətləri",
+      "content": [
+        "Vergi və mühasibat məhkəmə mübahisələri",
+        "Miqrasiya sənədləri",
+        "Müqavilə hazırlığı və risk analizi",
+        "Şirkət yaradılması və ləğv dilməsi",
+        "Xarici vətəndaşlar üçün konsultasiya"
+      ],
+      "title1": "Hüquq xidmətləri",
+      "description1": [
+        "şirkətlərin yaradılması, qeydiyyat məlumatlarında dəyişikliklər, payın alqı-satqı işlərinin görülməsi",
+        "vergi və mühasibatlığa dair məhkəmə mübahisələri",
+        "miqrasiya sənədlərinin hazırlanması",
+        "müqavilələrin hazırlanması, yoxlanması, risk analizi",
+        "şirkətlərin yaradılması, ləğvi və konsultasiya",
+        "xarici vətəndaşlar üçün şirkətlərin yaradılması və konsultasiya"
+      ]
+    },
+    "detail": "Ətraflı"
+  },
+  "accordion": {
+  "title": "Məqsədimiz",
+  "items": [
+    {
+      "title": "Müştəri Məmnuniyyəti:",
+      "content": "Müştərilərinizin maliyyə ehtiyaclarını qarşılamaq və onların gözləntilərini aşmaq."
+    },
+    {
+      "title": "Etibarlı Xidmət:",
+      "content": "Müştəri məlumatlarını qorumaq və mühasibatlıq sistemlərində təhlükəsizlik tədbirləri tətbiq etmək."
+    },
+    {
+      "title": "Gəlir artımı:",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, quidem."
+    },
+    {
+      "title": "Keyfiyyətli xidmət:",
+      "content": "Vaxtınıza qənaət edərək, Peşəkar və etibarlı xidmət təqdim edərək müştəri inamını qazanmaq."
+    },
+    {
+      "title": "Şəffaflıq:",
+      "content": "Mühasibatlıq və audit proseslərində şəffaflığı təmin etmək, müştərilərə aydın və anlaşıqlı hesabatlar təqdim etmək."
+    }
+  ]
+},
+"about": {
+  "bizKimik": "Biz Kimik?",
+  "servicesLeft": [
+    {
+      "title1": "Maliyyə planlaşdırması",
+      "title2": "İnvestisiya məsləhətləri"
+    },
+    {
+      "title1": "Kredit məsləhətləri",
+      "title2": "Pul axını idarəetməsi"
+    },
+    {
+      "title1": "Maliyyə analizləri",
+      "title2": "Maliyyə auditi"
+    },
+    {
+      "title1": "Vergi auditi",
+      "title2": "İcbari audit"
+    },
+    {
+      "title1": "Vergi planlaşdırması",
+      "title2": "Vergi risklərinin idarə edilməsi"
+    }
+  ],
+  "servicesCenter": {
+    "title": "Global Finance Company",
+    "description": "2018-ci ildən bu günədək hər bir müştəriyə fərdi yanaşma ilə maksimal dəstək göstəririk. Müxtəlif fəaliyyət sahələrindən — xidmət, satış, istehsalat, tikinti və s. — müştərilərlə çalışmışıq. Uçot sistemləri qurmuş, audit və vergi sahələrində keyfiyyətli xidmətlər təqdim etmişik."
+  },
+  "servicesRight": [
+    {
+      "title1": "Vergi hesabatlarının hazırlanması",
+      "title2": "Vergi yoxlamalarında dəstək"
+    },
+    {
+      "title1": "Beynəlxalq vergi xidmətləri",
+      "title2": "İkiqat vergitutma"
+    },
+    {
+      "title1": "Mühasibatlıq konsaltinq",
+      "title2": "Gömrük işləri"
+    },
+    {
+      "title1": "HR Audit",
+      "title2": "HR outsourcing"
+    },
+    {
+      "title1": "Hüquq xidmətləri",
+      "title2": "Təlim və inkişaf"
+    }
+  ],
+  "stats": [
+    { "count": 10000, "label": "Müxtəlif hal" },
+    { "count": 300, "label": "Müştəri" },
+    { "count": 10, "label": "İllik təcrübə" }
+  ],
+  "partners": "Partnyorlarımız"
+},
+
+  "trainings": {
+    "title": "Təlimlərimiz",
+    "details": "Ətraflı bax",
+    "items": [
+      {
+        "title": "Təlim Mövzuları",
+        "description": "Praktiki və nəzəri biliklərlə zəngin təlim proqramları."
+      },
+      {
+        "title": "Təlimçilərimiz",
+        "description": "Peşəkar və təcrübəli mütəxəssislərdən dərs alın."
+      },
+      {
+        "title": "Coffee Break",
+        "description": "Sosiallaşma və yenilənmə anları"
+      }
+    ]
+  },
+  "training": {
+    "title": "Mövcud təlimlərimiz",
+    "imageAlt": "Təlim şəkli",
+    "program1": {
+      "title": "\"Mühasib ol\" proqramı",
+      "description": "Bu təlimdə siz mühasib kimi bacarıqlara yiyələnərək sərbəst şəkildə mühasib işləyə biləcəksiniz. Təlim +10 illik praktik təcrübəyə malik 4 peşakar təlimçi tərəfindən keçirilir. Təlimçilərimiz haqqında məlumatı saytdan əldə edə bilərsiniz. Təlim proqramından da aydın olduğu kimi, siz istənilən şirkətdə mühasib kimi sərbəst fəaliyyət göstərə və ya ixtisasınızı artıra bilərsiniz. Təlim həftədə 2 gün 2 saat olmaqla 2,5 ay müddətində keçirilir. Hər saatın sonunda 10 dəqiqəlik coffee break fasiləmiz olur."
+    },
+    "program2": {
+      "title": "HR təlimləri",
+      "description": "Bu təlimdə siz sərbəst HR mütəxəssis olaraq işləməyi öyrənəcək və biliklərinizi artıracaqsınız. Təlim 2 peşəkar +15 illik təcrübəyə malik təlimçi tərəfindən keçirilir. Təlim həftədə 2 gün 2 saat olmaqla 2 ay müddətində keçirilir. Hər saatın sonunda 10 dəqiqəlik coffee break fasiləsi."
+    },
+    "program3": {
+      "title": "Təcrübə proqramı",
+      "description": "Bu proqramda siz şirkətimizə dəvət olunacaq və şirkətin fəaliyyət proseslərində iştirak edərək praktik təcrübə toplayacaqsınız."
+    }
+  },
+
+  "trainers": {
+    "back": "Geri dön",
+    "title": "Təlimçilərimiz",
+    "list": [
+      {
+        "name": "Dünya Nəbiyeva",
+        "photo": "/training-images/trainer2.jpeg",
+        "description": "+15 il təcrübə, SHRM-CP, PMI",
+        "info": "Özəl və dövlət müəssisələrində insan resursları üzrə şöbə rəhbəri vəzifəsində 15 ildən çox təcrübəyə malik olan Dünya xanım “Kişisel gelişim ve eğitim” (İstanbul Esenyurt Üniversitesi), “İnsan resurslarının idarəedilməsi” (SHRM-CP), “Achieving Happiness and Success” (PMI), “Ailə və əmək məsələləri üzrə mediator” (AR Ədliyyə Akademiyası) və s. kimi sertifikatlara və əlavə təhsilə yiyələnmişdir."
+      },
+      {
+        "name": "Elvin Nağıyev",
+        "photo": "/training-images/trainer1.jpeg",
+        "description": "+15 il təcrübə, Audit lisenziyası",
+        "info": "15 ildən çox təcrübəsində müxtəlif fəaliyyət sahələri üzrə, baş mühasib, maliyyə departament dr. Audit departament dr. və Auditor kimi fəaliyyət göstərmişdir. Dəfələrlə səyyar vergi yoxlamalarında şirkətləri təmsil etmiş, vergi və maliyyə-muhasibatlıq sahəsində uçot sistemləri qurmuşdur."
+      },
+      {
+        "name": "İlahə Qarayeva",
+        "photo": "/training-imags/trainer3.jpeg",
+        "description": "+10 il təcrübə, PMS",
+        "info": "2014-cü ildən mühasib və baş mühasib olaraq bir neçə böyük şirkətlərdə çalışmışdır. Ümumilikdə, idxal-ixrac, xidmət, satış, istehsalat müəssisələrində praktik olaraq mühasibat uçotunu aparmışdır."
+      },
+      {
+        "name": "Elmar Ağamirzayev",
+        "photo": "/training-images/trainer1.jpeg",
+        "description": "+15 il təcrübə, MBA, PMS",
+        "info": "Lokal və xarici (Amerika Birləşmiş Ştatlarında) təhsil və təcrübəyə malik olub 15 ildən çox mühasib və baş mühasib, maliyyə dr. olaraq bir neçə böyük şirkətlərdə çalışmışdır."
+      }
+    ]
+  },
+  "contact": {
+    "title": "Bizimlə Əlaqə",
+    "phone": "+994 55 555 33 05",
+    "email": "naghiyev.ef@gmai.com",
+    "address": "Bakı, Azərbaycan",
+    "formTitle": "Bizə yazın",
+    "form": {
+      "name": "Adınız",
+      "email": "Email",
+      "message": "Mesajınız",
+      "submit": "Göndər"
+    },
+    "mapTitle": "Xəritədə biz"
+  }
+
+}

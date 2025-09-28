@@ -1,0 +1,259 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Services",
+    "trainings": "Trainings",
+    "contact": "Contact",
+        "useful": "Useful"
+  },
+  "home": {
+    "title": "Professional Audit and Finance",
+    "subtitle": "Reliable Partner for Your Services"
+  },
+  "footer": {
+    "contact_title": "Contact Us",
+    "rights": "All rights reserved.",
+    "email_label": "Email:",
+    "phone_label": "Phone:"
+  },
+  "services": {
+    "muhasibat": {
+      "title": "Accounting Services",
+      "content": [
+        "Accounting records maintenance",
+        "Submission of tax and financial reports",
+        "Bank payments, customs operations, etc.",
+        "Preparation of documents according to daily accounting requirements",
+        "Inventory (material) accounting"
+      ],
+      "title1": "Accounting Services",
+      "description1": [
+        "Recording all financial transactions of your company, accounting all economic activities",
+        "Preparation and processing of initial documents",
+        "Submission of tax and financial reports",
+        "Accounting of fixed assets, depreciation, write-offs, and organizing inventory",
+        "Execution of banking transactions, internal and external transfers, tax and other budget payments",
+        "Customs payments, registration of contracts, monitoring customs declarations, etc.",
+        "Establishment of payroll and bonus systems, payroll calculation and payments",
+        "Inventory accounting, formation of material cost, incoming and outgoing materials, write-offs, etc.",
+        "Cash operations accounting, tracking and controlling cash flow"
+      ]
+    },
+    "vergi": {
+      "title": "Tax Services",
+      "content": [
+        "Tax documentation",
+        "Negotiations with tax authorities",
+        "Execution of operations",
+        "Representation in on-site tax inspections"
+      ],
+      "title1": "Tax Services",
+      "description1": [
+        "Accounting of all tax operations of your company",
+        "Execution of documentation required by tax authorities",
+        "Submission of tax reports and all types of declarations",
+        "Analysis of previous period tax reports, possible refunds analysis and application",
+        "Analysis of tax risks, elimination of existing risks, providing tax consultations",
+        "Representation and defense of your company during desk and field tax audits"
+      ]
+    },
+    "audit": {
+      "title": "Audit Services",
+      "content": [
+        "Audit as a member of the Chamber of Auditors of Azerbaijan",
+        "Annual financial statements audit",
+        "Internal audit and tax risk checks",
+        "Human Resources audit"
+      ],
+      "title1": "Audit Services",
+      "description1": [
+        "Conducting audit as an official member of the Chamber of Auditors of Azerbaijan",
+        "Internal audit before tax inspections, identifying and resolving tax risks",
+        "Analysis, clarification, correction and resubmission of all types of tax declarations",
+        "Human Resources audit, preparation of required documents, resolving deficiencies"
+      ]
+    },
+    "hr": {
+      "title": "HR Services",
+      "content": [
+        "Establishment of Human Resources accounting",
+        "Documentation management",
+        "EMAS inspection and corrections"
+      ],
+      "title1": "HR Services",
+      "description1": [
+        "Establishment of Human Resources accounting",
+        "Management of HR documentation, attendance, hiring, changes, dismissals, vacations, etc.",
+        "EMAS inspection, identifying and correcting discrepancies between documents, facts and portal",
+        "Human Resources audit, preparation of necessary documents, elimination of deficiencies"
+      ]
+    },
+    "ucot": {
+      "title": "Accounting Software Implementation",
+      "content": [
+        "Setting up accounting",
+        "Software development and implementation",
+        "Training and support for 1C software"
+      ],
+      "title1": "Accounting Software Implementation",
+      "description1": [
+        "Setting up accounting and tax records in your existing software",
+        "Development and implementation of 1C software from scratch for accounting and tax records",
+        "Conducting 1C software trainings and providing support for your existing software"
+      ]
+    },
+    "huquq": {
+      "title": "Legal Services",
+      "content": [
+        "Tax and accounting court disputes",
+        "Migration documents",
+        "Contract preparation and risk analysis",
+        "Company formation and liquidation",
+        "Consultation for foreign citizens"
+      ],
+      "title1": "Legal Services",
+      "description1": [
+        "Company formation, changes in registration data, share transactions",
+        "Tax and accounting related court disputes",
+        "Preparation of migration documents",
+        "Contract preparation, review, and risk analysis",
+        "Company formation, liquidation and consultations",
+        "Company formation and consultation services for foreign citizens"
+      ]
+    },
+    "detail": "Details"
+  },
+  "accordion": {
+  "title": "Our Mission",
+  "items": [
+    {
+      "title": "Customer Satisfaction:",
+      "content": "Meeting clients’ financial needs and exceeding their expectations."
+    },
+    {
+      "title": "Reliable Service:",
+      "content": "Protecting client data and implementing security measures in accounting systems."
+    },
+    {
+      "title": "Revenue Growth:",
+      "content": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eligendi, quidem."
+    },
+    {
+      "title": "Quality Service:",
+      "content": "Saving your time by providing professional and trustworthy service to build client confidence."
+    },
+    {
+      "title": "Transparency:",
+      "content": "Ensuring transparency in accounting and audit processes, providing clear and comprehensible reports to clients."
+    }
+  ]
+},
+"about": {
+  "bizKimik": "Who We Are?",
+  "servicesLeft": [
+    { "title1": "Financial Planning", "title2": "Investment Consulting" },
+    { "title1": "Credit Consulting", "title2": "Cash Flow Management" },
+    { "title1": "Financial Analysis", "title2": "Financial Audit" },
+    { "title1": "Tax Audit", "title2": "Mandatory Audit" },
+    { "title1": "Tax Planning", "title2": "Tax Risk Management" }
+  ],
+  "servicesCenter": {
+    "title": "Global Finance Company",
+    "description": "Since 2018, we have provided maximum support with a personalized approach to every client. We have worked with clients from various sectors — services, sales, manufacturing, construction, etc. We have established accounting systems and delivered quality services in auditing and taxation."
+  },
+  "servicesRight": [
+    { "title1": "Tax Report Preparation", "title2": "Support in Tax Audits" },
+    { "title1": "International Tax Services", "title2": "Double Taxation" },
+    { "title1": "Accounting Consulting", "title2": "Customs Services" },
+    { "title1": "HR Audit", "title2": "HR Outsourcing" },
+    { "title1": "Legal Services", "title2": "Training and Development" }
+  ],
+  "stats": [
+    { "count": 10000, "label": "Cases" },
+    { "count": 300, "label": "Clients" },
+    { "count": 10, "label": "Years of Experience" }
+  ],
+  "partners": "Our Partners"
+},
+
+"trainings": {
+  "title": "Our Trainings",
+  "details": "View Details",
+  "items": [
+    {
+      "title": "Training Topics",
+      "description": "Training programs rich in practical and theoretical knowledge."
+    },
+    {
+      "title": "Our Trainers",
+      "description": "Learn from professional and experienced specialists."
+    },
+    {
+      "title": "Coffee Break",
+      "description": "Moments for socializing and refreshing."
+    }
+  ]
+},
+"training": {
+  "title": "Our Current Trainings",
+  "imageAlt": "Training image",
+  "program1": {
+    "title": "\"Become an Accountant\" Program",
+    "description": "In this training, you will acquire skills to work independently as an accountant. The training is conducted by 4 professional trainers with over 10 years of practical experience. You can find information about our trainers on the website. As the training program suggests, you can work freely as an accountant in any company or improve your qualifications. The training is held twice a week for 2 hours each, lasting 2.5 months. We have a 10-minute coffee break at the end of each hour."
+  },
+  "program2": {
+    "title": "HR Trainings",
+    "description": "In this training, you will learn to work independently as an HR specialist and improve your knowledge. The training is conducted by 2 professional trainers with over 15 years of experience. It takes place twice a week for 2 hours each, lasting 2 months. There is a 10-minute coffee break at the end of each hour."
+  },
+  "program3": {
+    "title": "Internship Program",
+    "description": "In this program, you will be invited to our company and participate in the company's operational processes, gaining practical experience."
+  }
+},
+"trainers": {
+  "back": "Back",
+  "title": "Our Trainers",
+  "list": [
+    {
+      "name": "Dünya Nabiyeva",
+      "photo": "/training-images/trainer2.jpeg",
+      "description": "+15 year experience, SHRM-CP, PMI",
+      "info": "Dünya has over 15 years of experience as head of HR departments in private and public companies. She holds certifications such as 'Personal Development and Training' (Istanbul Esenyurt University), 'Human Resource Management' (SHRM-CP), 'Achieving Happiness and Success' (PMI), and 'Family and Labor Mediator' (Azerbaijan Justice Academy)."
+    },
+    {
+      "name": "Elvin Naghiyev",
+      "photo": "/training-images/trainer1.jpeg",
+      "description": "+15 year experience, Audit license",
+      "info": "With over 15 years of experience in various fields, Elvin has worked as chief accountant, finance director, audit department head, and auditor. He has represented companies in numerous tax inspections and established accounting systems in tax and finance."
+    },
+    {
+      "name": "Ilaha Garayeva",
+      "photo": "/training-images/trainer3.jpeg",
+      "description": "+10 year experience, PMS",
+      "info": "Since 2014, Ilaha has worked as an accountant and chief accountant in several large companies. She has practical experience in import-export, services, sales, and production enterprises."
+    },
+    {
+      "name": "Elmar Agamirzayev",
+      "photo": "/training-images/trainer3.jpeg",
+      "description": "+15 year experience, MBA, PMS",
+      "info": "Elmar has local and international (USA) education and experience, having worked as accountant, chief accountant, and finance director in several large companies for over 15 years."
+    }
+  ]
+},
+"contact": {
+  "title": "Contact Us",
+  "phone": "+994 55 555 33 05",
+  "email": "naghiyev.ef@gmai.com",
+  "address": "Baku, Azerbaijan",
+  "formTitle": "Write to us",
+  "form": {
+    "name": "Your Name",
+    "email": "Email",
+    "message": "Your Message",
+    "submit": "Send"
+  },
+  "mapTitle": "Find us on the map"
+}
+
+}
