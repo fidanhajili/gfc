@@ -14,7 +14,7 @@ const Training = () => {
       <Link
         to="/trainings"
         className="inline-flex items-center gap-2 text-white font-semibold hover:text-blue-400 transition
-                   px-4 pt-4 sm:pt-6 sm:ms-24 sm:static fixed top-20 left-2 z-30"
+                   px-4 pt-4 sm:pt-6 sm:ms-24 sm:static absolute top-20 left-2 z-30"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
