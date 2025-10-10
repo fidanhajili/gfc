@@ -96,7 +96,7 @@ const About = () => {
               className="bg-gradient-to-br from-[#0b3294] via-[#457eb0] to-[#3d5aa4] text-white rounded-2xl shadow-xl p-6 text-center transition-transform hover:scale-105"
             >
               <h2 className="text-3xl font-bold">
-                <CountUp end={count} duration={2.5} prefix="+" />
+                <CountUp end={count} duration={8.5} prefix="+" />
               </h2>
               <p className="mt-2 text-sm">{label}</p>
             </div>
